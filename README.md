@@ -1,6 +1,6 @@
 [![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)](https://bappadityasinha.io)
 <h1 align="center">Hi 👋, I'm Bappaditya Sinha</h1>
-<h3 align="center">A passionate Full-stack develper from India</h3>
+<h3 align="center">A passionate Full-Stack develper from India</h3>
 <img align="right" alt="coding" width "300" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bappaditya92&label=Profile%20views&color=0e75b6&style=flat" alt="bappaditya92" /> </p>
